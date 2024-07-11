@@ -1,7 +1,12 @@
-Good day! I am Owolewa (@owoinChrist).
-I’m interested in web/software development, AI and machine learning.
-I’m currently learning python and javascript.
-Loves reading!
+I am Owolewa (@owoinChrist).
+I’m interested in web/software development, data analysis, data science, AI and machine learning.
+
+Loves reading and learning!
+Loves Meditating.
+Loves solving problems.
+Loves programming.
+Loves trying out new things.
+
 Reach me at: owo4signs@gmail.com
 
 <!---
